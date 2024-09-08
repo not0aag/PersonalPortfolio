@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bf78ac3-7968-4f74-955f-694c6bd2d818" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Assets/Projects/FlapBird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Projects/MovieDatabase.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Projects/snackeGame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/resumemain.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/readme-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/Projects/blog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/Projects/chatify.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/Projects/codeEditor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/Projects/emotion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/Projects/leaf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/Projects/suicide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/Soumyajit_Behera-BIT_MESRA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/avatar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/About/AboutCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/AboutCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/About/Github.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/Github.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/About/Techstack.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/Techstack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/About/Toolstack.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/Toolstack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Home2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Type.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Resume/ResumeNew.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Resume/ResumeNew.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ljRMh1QSIi9qSJdHC8m52lodF9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.AboutCard.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Navbar.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Portfolio/src/Assets&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Portfolio\src\Assets" />
+      <recent name="C:\Portfolio\src\Assets\Projects" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bf78ac3-7968-4f74-955f-694c6bd2d818" name="Changes" comment="" />
+      <created>1725691452595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725691452595</updated>
+      <workItem from="1725691453629" duration="184000" />
+      <workItem from="1725723830522" duration="6146000" />
+      <workItem from="1725770523793" duration="292000" />
+      <workItem from="1725799406250" duration="6282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
