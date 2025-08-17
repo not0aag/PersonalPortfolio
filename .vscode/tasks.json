@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "push-portfolio-to-github",
+			"type": "shell",
+			"command": "git rev-parse --is-inside-work-tree || (git init && git checkout -b master)\n git remote get-url origin || git remote add origin https://github.com/not0aag/PersonalPortfolio.git\n git add -A\n git commit -m \"Align portfolio to 2026 resume: Home intro, About card, Tech stack, projects data + CTA, and Resume button fix\" || echo No changes to commit\n git push -u origin master",
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "build"
+		}
+	]
+}

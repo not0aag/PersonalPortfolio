@@ -550,6 +550,23 @@ button:focus {
   color: white !important;
 }
 
+.about-hero {
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+}
+
+.quote-card-view {
+  backdrop-filter: blur(6px);
+  background: rgba(98, 54, 134, 0.15) !important;
+  border: 1px solid rgba(199, 112, 240, 0.25) !important;
+  border-radius: 12px !important;
+  padding: 14px !important;
+}
+
+.about-left h1 {
+  letter-spacing: 0.3px;
+}
+
 .tech-icons {
   font-size: 4.5em !important;
   margin: 15px !important;

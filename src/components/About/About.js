@@ -12,26 +12,15 @@ function About() {
     <Container fluid className="about-section">
       <Particle />
       <Container>
-        <Row style={{ justifyContent: "center", padding: "10px" }}>
-          <Col
-            md={7}
-            style={{
-              justifyContent: "center",
-              paddingTop: "30px",
-              paddingBottom: "50px",
-            }}
-          >
+        <Row className="align-items-center" style={{ justifyContent: "center", padding: "10px" }}>
+          <Col md={6} className="about-left" style={{ paddingTop: "30px", paddingBottom: "30px" }}>
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
               Know Who <strong className="purple">I am</strong>
             </h1>
             <Aboutcard />
           </Col>
-          <Col
-            md={5}
-            style={{ paddingTop: "120px", paddingBottom: "50px" }}
-            className="about-img"
-          >
-            <img src={laptopImg} alt="about" className="img-fluid" />
+          <Col md={6} className="about-img d-flex justify-content-center" style={{ paddingTop: "30px", paddingBottom: "30px" }}>
+            <img src={laptopImg} alt="about" className="img-fluid about-hero" />
           </Col>
         </Row>
         <h1 className="project-heading">
